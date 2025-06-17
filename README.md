@@ -8,8 +8,8 @@
 ---
 # CONTOH FORMAT PENGUMPULAN PADA REPOSITORY GITHUB
 ## Identitas
-- Nama : _Isikan nama kalian_
-- NIM  : _Isikan NIM kalian_
+- Nama : _isikan nama kalian_
+- NIM  : _isikan NIM kalian_
 
 ## Menu yang dikerjakan (sesuaikan dengan strategi kalian dalam memilih menu)
 **_Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan, estetika menu program termasuk dalam kriteria penilaian._**

@@ -12,7 +12,7 @@
 - NIM  : _Isikan NIM kalian_
 
 ## Menu yang Dikerjakan (Sesuaikan Dengan Strategi Kalian Dalam Memilih Menu)
-- **_Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan, estetika menu program termasuk dalam kriteria penilaian_**
+**_Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan, estetika menu program termasuk dalam kriteria penilaian._**
 - Menu 1 Output User dan Tanggal
 - Menu 2 Daftar Direktori
 - Menu 3 Informasi Jaringan

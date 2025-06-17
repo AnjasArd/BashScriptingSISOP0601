@@ -12,7 +12,7 @@
 - NIM  : _Isikan NIM kalian_
 
 ## Menu yang Dikerjakan (Sesuaikan Dengan Strategi Kalian Dalam Memilih Menu)
-- _Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan_
+- **_Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan, estetika menu program termasuk dalam kriteria penilaian_**
 - Menu 1 Output User dan Tanggal
 - Menu 2 Daftar Direktori
 - Menu 3 Informasi Jaringan
@@ -25,6 +25,7 @@
 ![image](https://github.com/user-attachments/assets/72f388aa-8975-479b-a264-d09023d3acd5)
 
 - Menu 1 Greeting User
+  
   ![image](https://github.com/user-attachments/assets/46562e4d-6016-4926-9d3f-7de686ef47e5)
 
 - Menu 2 Daftar Direktori

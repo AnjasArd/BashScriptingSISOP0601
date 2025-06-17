@@ -1,6 +1,6 @@
 # INFORMASI DETAIL TUGAS PENGGANTI MATA KULIAH SISTEM OPERASI IT-06-01
 ## Tugas dikumpulkan dengan ketentuan sebagai berikut:
-- Wajib mengumpulkan **link repository Github di LMS.**
+- Wajib mengumpulkan <ins>**link repository Github di LMS.**</ins>
 - Wajib mengumpulkan file script bash dan laporan dokumentasi. 
 - Opsi pengumpulan pertama, file script bash dan laporan dokumentasi bisa dijadikan satu dengan menggunkan fitur pada repository Github seperti ini.
 - Opsi pengumpulan kedua, file script bash tetap diupload di Guthub tetapi file laporan dokumentasi dapat dikumpulkan di LMS dengan **format .pdf**

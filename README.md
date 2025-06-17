@@ -26,9 +26,11 @@
   ![image](https://github.com/user-attachments/assets/72f388aa-8975-479b-a264-d09023d3acd5)
 
 
+
 - Menu 1 Greeting User
   
   ![image](https://github.com/user-attachments/assets/46562e4d-6016-4926-9d3f-7de686ef47e5)
+
 
 
 - Menu 2 Daftar Direktori
@@ -36,14 +38,20 @@
   ![image](https://github.com/user-attachments/assets/83a3cf70-f9f0-4eef-a25a-043a1405ffa3)
 
 
+
+
 - Menu 3 Informasi Jaringan
   
   ![image](https://github.com/user-attachments/assets/c2ecc1dc-ba6b-414b-aca6-2fe7b582d940)
 
 
+
+
 - Menu 4 Detail OS
 
   ![image](https://github.com/user-attachments/assets/ac83429e-50b7-4c99-9f20-ec0005775c78)
+
+
 
   
 - Menu 5 Waktu Install OS Pertama Kali
@@ -51,9 +59,13 @@
   ![image](https://github.com/user-attachments/assets/05701c95-cbf7-44d5-a52b-e029b2cfaa16)
 
 
+
+
 - Menu 6 Detail Informasi User
 
   ![image](https://github.com/user-attachments/assets/293cd533-a085-486f-8d3c-3fb64295be21)
+
+
 
 
 - Tampilan Saat Keluar Program

@@ -11,9 +11,9 @@
 - Nama : _Isikan nama kalian_
 - NIM  : _Isikan NIM kalian_
 
-## Menu yang Dikerjakan (Sesuaikan Dengan Strategi Kalian Dalam Memilih Menu)
+## Menu yang dikerjakan (sesuaikan dengan strategi kalian dalam memilih menu)
 **_Note: Menu dengan poin tertinggi adalah menu Informasi Jaringan, estetika menu program termasuk dalam kriteria penilaian._**
-- Menu 1 Output User dan Tanggal
+- Menu 1 Greeting User
 - Menu 2 Daftar Direktori
 - Menu 3 Informasi Jaringan
 - Menu 4 Detail OS

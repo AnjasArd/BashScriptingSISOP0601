@@ -3,7 +3,7 @@
 - Wajib mengumpulkan <ins>**link repository Github di LMS.**</ins>
 - Wajib mengumpulkan file script bash dan laporan dokumentasi. 
 - Opsi pengumpulan pertama, file script bash dan laporan dokumentasi bisa dijadikan satu dengan menggunkan fitur pada repository Github seperti ini.
-- Opsi pengumpulan kedua, file script bash tetap diupload di Guthub tetapi file laporan dokumentasi dapat dikumpulkan di LMS dengan <ins>**format .pdf**</ins>
+- Opsi pengumpulan kedua, file script bash tetap diupload di Github tetapi file laporan dokumentasi dapat dikumpulkan di LMS dengan <ins>**format .pdf**</ins>
 - Deadline pengumpulan <ins>**maksimal: Sabtu. 21 Juni 2025, pukul 23:59**</ins>
 ---
 # CONTOH FORMAT PENGUMPULAN PADA REPOSITORY GITHUB
